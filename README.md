@@ -1,6 +1,6 @@
 # imgroot
 
-"I'm Groot" is a repository that I've developed to facilitate the translation of the English language into Groot's language from the Marvel Cinematic Universe (MCU). The website was crafted using HTML, CSS, and JavaScript. Feel free to replicate the repository, but kindly ensure that proper credit is attributed to me for my work.
+"I'm Groot" is a repository that I've developed to facilitate the translation of the English language into Groot's language from the Marvel Cinematic Universe (MCU). The website was crafted using HTML, CSS, and JavaScript. Feel free to replicate the repository, but kindly ensure that proper credit is attributed to me for my work. I have also used Fun Translations API : https://funtranslations.com/api/groot/ as to build my project.
 
 
 
