@@ -9,6 +9,6 @@
 
 
 heres the screenshot of the landing page 
-
+netlify link : https://grootapp.netlify.app/
 
 
